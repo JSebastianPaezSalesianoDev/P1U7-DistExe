@@ -21,5 +21,9 @@ Rama linux:  Ejecutable dentro de dist: Practica.exe
   cd dist
 8. Ejecutamos el output
    ./practicaExe
-te pase el dist por google drive
+# te pase el dist por google drive
 https://drive.google.com/file/d/1QofoRD_jbpmTWYooI5heROcVl5ldGAJo/view?usp=drive_link
+
+
+# drive para el windows
+https://drive.google.com/file/d/1wfJJ-ZQNbwqQlb5asDyN1A1cRk_XCLIo/view?usp=drive_link
